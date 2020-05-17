@@ -1,0 +1,42 @@
+body {
+	color: Cornsilk; 
+	background-color: Crimson;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50em;
+}
+
+h2 {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+
+p.emph {
+	text-align: center;
+	font-weight: bold;
+}
+
+
+.vertical-menu {
+	text-align: center;
+	border: 3em;
+}
+
+a:link {
+	color: White;
+}
+
+a:visited {
+	color: BurlyWood;
+}
+
+a:link {
+	color: White;
+}
+
+a:link {
+	color: White;
+}
